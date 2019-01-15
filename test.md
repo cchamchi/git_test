@@ -51,9 +51,13 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a bar chart showing the data distribution based on different signs.
 
 ![alt text][image1]
+
+The numbers are not same for each sign. The smallest amount is 180, however, the largest is around 2000. This will be a factor resulting in different accuracy for each sign.
+
+
 
 ### Design and Test a Model Architecture
 
